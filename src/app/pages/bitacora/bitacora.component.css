@@ -1,0 +1,58 @@
+.container{
+  background: #2193b0;  
+  background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0); 
+  background: linear-gradient(to right, #6dd5ed, #2193b0); 
+  
+  
+    border: solid black;
+    border-radius: 20px;
+    padding: 5px;
+   }
+   
+   table {
+      width: 100%;
+    }
+  
+    th, td {
+      text-align: left;
+      padding: 8px;
+    }
+  
+    tr {
+      background-color: wheat;
+    }
+  
+    th{
+      color: white;
+      background-color: purple;
+    }
+  
+    input{
+      margin-left: 10px; 
+      position: relative;
+      top: -90px;
+      border-radius: 10px;
+      height: 40px;
+    }
+  
+    .inputs{
+      width: 100%;
+      position: relative;
+      height: 250px;
+      border: solid black;
+      border-radius: 20px;
+      background: #2193b0;  
+      background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0); 
+      background: linear-gradient(to right, #6dd5ed, #2193b0); 
+    }
+  
+    .campos{
+      position: relative;
+      margin-left: 50px;
+    }
+  
+    textarea{
+      position: relative;
+      margin-left: 10px;
+      border-radius: 10px;
+    }
